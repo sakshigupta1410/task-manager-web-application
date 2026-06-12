@@ -1,0 +1,22 @@
+{
+  "name": "aad-project",
+  "version": "1.0.0",
+  "description": "Task Manager Web Application built using AngularJS, Node.js and Express.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo No tests specified"
+  },
+  "keywords": [
+    "task-manager",
+    "angularjs",
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "Sakshi Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "express": "^5.2.1"
+  }
+}
