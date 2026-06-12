@@ -96,7 +96,7 @@ Task-Manager/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/task-manager-web-application.git
+git clone https://github.com/sakshigupta1410/task-manager-web-application
 ```
 
 ### 2. Open Project Folder
